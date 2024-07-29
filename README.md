@@ -8,7 +8,7 @@ Domínio móveis website
 
 
 📌 Versão
-Nós usamos SemVer para controle de versão. Para as versões disponíveis, observe as tags neste repositório.
+1.0
 
 ✒️ Autores
 https://github.com/felipemantovani-dev - Dev

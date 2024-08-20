@@ -10,6 +10,7 @@
 - CSS
 - JAVASCRIPT
 
+*NÃO RESPONSIVO*
 
 📌 Versão
 1.0
